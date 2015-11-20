@@ -1,7 +1,7 @@
-open-school-CE
-==============
+Comilla Zilla School integrated school management system
+========================================================
 
-Open-School is an integrated school management system which focuses on excellence and evolution in the field of Education. To achieve this O-S is flexible and innovates the new trends in education management. Open-School is a diverse, demanding, and high quality educational management system where every user can discover and realize their potential to achieve overall development.
+Comilla Zilla School integrated school management system which focuses on excellence and evolution in the field of Education in Bangladesh. Comilla Zilla School integrated school management system will  To achieve this O-S is flexible and innovates the new trends in education management. Open-School is a diverse, demanding, and high quality educational management system where every user can discover and realize their potential to achieve overall development.
 [Note] This is not the Premium Edition
 
 
